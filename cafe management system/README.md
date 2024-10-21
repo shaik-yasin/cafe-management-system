@@ -1,0 +1,1 @@
+We are creating a cafe management system which is having a restaurant menu and this system able to take orders from customer and add the price to it and calculating the total orders cost and shows to the customer.
